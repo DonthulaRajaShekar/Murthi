@@ -12,7 +12,7 @@ public class Practice {
 	{
 		
 		System.out.println("sample demo");
-		System.out.println("Murthi is a gooood boy");
+		System.out.println("Murthi is a baaaaad boy");
 		System.out.println("Conflict practicre");
 		
 		
